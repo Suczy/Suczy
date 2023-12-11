@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Suczy
-- 👀 I’m student learning data science and web development
+- 👀 I’m student learning data science 
 - 🌱 I’m currently learning python..
 - 💞️ I’m looking to collaborate on visualization related work ...
-- 📫 How to reach me ...
+- 📫 Reach me ...-> pshet73@gmail.com
 
 <!---
 Suczy/Suczy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
